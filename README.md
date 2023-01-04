@@ -103,9 +103,11 @@ Requisitos funcionais:
 
 ## Pronto para começar os desafios?
 
-- Faça um "fork" desse repositório na sua conta do Github;
-- Crie uma branch com o seu nome, sobrenome e desafio: `desafio-01/caroline-oliveira`;
-- Após completar o desafio, crie um "pull request" para este repositório [(dynamox-s-a/teste-front-end)](https://github.com/dynamox-s-a/teste-front-end) comparando a sua branch com a master;
+- Faça um "fork" deste repositório (dynamox-s-a/teste-front-end) na sua conta do Github;
+- No seu fork, crie uma branch contendo o número do desafio, seu nome e sobrenome seguindo o padrão `desafio-xx/nome-sobrenome`:
+  - Ex.: `desafio-01/caroline-oliveira`
+- Após completar o desafio, crie uma "pull request" neste repositório ([dynamox-s-a/teste-front-end](https://github.com/dynamox-s-a/teste-front-end)) comparando a branch de seu fork, com a master deste repositório;
+  - Ex.: `carolina/teste-front-end:desafio-01/carolina-oliveira` -> `dynamox-s-a/teste-front-end:master`;
 - Faça isso para cada um dos desafios separadamente;
 - Receberemos uma notificação do seu pull request, faremos a avaliação da sua solução e entraremos em contato;
 
